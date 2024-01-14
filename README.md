@@ -4,5 +4,5 @@ In this project I:
 2. Use Python data analysis techniques to answer research questions
 3. Created data visualizations using Matplotlib and Pandas to support each conclusion
 
-- To complete this assignment, I referenced Week 11 classwork assignments and received guidance in office hours from professor
+Note: To complete this assignment, I referenced Week 11 classwork assignments and received guidance in office hours from professor
 
